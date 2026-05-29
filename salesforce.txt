@@ -1,2 +1,4 @@
 Generate a new commit message for the following changes:
 second commit has been done through offiline
+The third line
+The forth link in master
